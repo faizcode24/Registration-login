@@ -32,7 +32,9 @@ A simple Node.js / Express application that implements user registration and log
    git clone https://github.com/faizcode24/Registration-login.git
    cd Registration-login
 npm install
-npm start
+ # How to run
+nodemon src/index.js
+
 
 
 
